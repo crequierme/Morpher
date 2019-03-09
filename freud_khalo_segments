@@ -1,0 +1,66 @@
+khalo.jpg
+15
+nose
+291 478 291 415
+r_brow_right
+208 488 234 506
+r_brow_left
+239 506 282 492
+ l_brow_right
+299 490 348 502
+l_brow_left
+351 501 375 491
+lip_line
+263 378 317 378
+r_mouth_crease
+264 418 244 390
+l_mouth_crease
+317 418 330 380
+chin
+259 322 317 322
+neck_left
+358 355 361 245
+jaw_right
+248 334 209 396
+left_window_border
+1 761 1 58
+right_window_border
+614 760 613 56
+top_window_border
+41 797 521 797
+bottom_window_border
+22 1 530 1
+
+
+freud.jpg
+15
+nose
+283 470 280 330
+r_brow_right
+150 422 201 486
+r_brow_left
+208 487 252 453
+l_brow_right
+303 455 368 491
+l_brow_left
+374 493 427 459
+lip_line
+235 250 356 260
+r_mouth_crease
+240 342 207 258
+l_mouth_crease
+330 362 376 258
+chin
+244 145 346 146
+neck_left
+469 318 481 123
+jaw_right
+233 160 149 293
+left_window_border
+1 761 1 58
+right_window_border
+614 760 613 56
+top_window_border
+41 797 521 797
+bottom_window_border
+22 1 530 1
